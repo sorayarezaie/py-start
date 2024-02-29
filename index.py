@@ -15,6 +15,6 @@ elif operand == '/':
         print('It cannot be divided by zero')
 else:
     print('Invalid Operator')
-print("the result of your given numbers is: "+ result)
+print(f"the result of your given numbers is: {result}")
 print("it is a comperhensive Python program!")
 print('Have a great Day! ')
