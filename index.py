@@ -17,3 +17,4 @@ else:
     print('Invalid Operator')
 print("the result of your given numbers is: "+ result)
 print("it is a comperhensive Python program!")
+print('Have a great Day! ')
