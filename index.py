@@ -1,6 +1,7 @@
 num1 = int(input("Give me the first number "))
 num2 =int(input("Give me the second number"))
 operand = input("give me the operator")
+result = 0;
 if operand == '+':
     result = num1 + num2
 elif operand == '-':
@@ -14,4 +15,4 @@ elif operand == '/':
         print('It cannot be divided by zero')
 else:
     print('Invalid Operator')
-print(result)
+print("the result of your given numbers is: "+ result)
