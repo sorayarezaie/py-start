@@ -1,4 +1,5 @@
 num1 = int(input("Give me the first number "))
 num2 =int(input("Give me the second number"))
-calc = num1+num2
-print(calc)
+operand = input("give me the operand ")
+num3 = num1 + num2
+print(num3)
