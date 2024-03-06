@@ -10,7 +10,7 @@ elif operand == '*':
     result = num1 * num2
 elif operand == '/':
     if num1 != 0:
-        result = num1 / num2
+        result = num1 / num4
     else:
         print('It cannot be divided by zero')
 else:
